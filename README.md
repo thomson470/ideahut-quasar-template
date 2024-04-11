@@ -1,4 +1,4 @@
-# Ideahut Quasar Tempate
+# Ideahut Quasar Tempate <img height="32" src="https://avatars.githubusercontent.com/u/23064371?s=200&v=4" alt="Quasar"> <img height="32" src="https://raw.githubusercontent.com/ideahut-apps-team/ideahut-springboot-docs/main/docs/images/logo.png" alt="Ideahut">
 
 - Template UI untuk library [Ideahut Spring Boot](https://github.com/ideahut-apps-team/ideahut-springboot-docs/)
 - Mendukung Versi 2x dan 3x
