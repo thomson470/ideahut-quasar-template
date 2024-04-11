@@ -1,12 +1,13 @@
-# ideahut-quasar-template
+# Ideahut Quasar Tempate
 
-Ideahut Quasar View
+- Template UI untuk library [Ideahut Spring Boot](https://github.com/ideahut-apps-team/ideahut-springboot-docs/)
+- Mendukung Versi 2x dan 3x
 
-## Install the dependencies
+## Install
 ```bash
-yarn
-# or
 npm install
+npm run lint --fix
+icongenie generate -m spa -i icon-512x512.png
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
@@ -14,28 +15,20 @@ npm install
 quasar dev
 ```
 
-
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-
-### Format the files
-```bash
-yarn format
-# or
-npm run format
-```
-
-
-
 ### Build the app for production
 ```bash
 quasar build
 ```
+
+### Environment (file: .env)
+```md
+API_URL=http://localhost:5401
+API_TIMEOUT=60
+DEFAULT_LANGUAGE=en
+DEVELOPMENT=true
+```
+
+
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
