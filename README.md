@@ -28,6 +28,12 @@ DEFAULT_LANGUAGE=en
 DEVELOPMENT=true
 ```
 
+### Backend
+* [Springboot 3x MVC](https://github.com/thomson470/ideahut-springboot-3x-template-mvc)
+* [Springboot 3x Reactive](https://github.com/thomson470/ideahut-springboot-3x-template-flux)
+* [Springboot 3x Native](https://github.com/thomson470/ideahut-springboot-3x-template-native)
+* [Springboot 2x MVC](https://github.com/thomson470/ideahut-springboot-2x-template-mvc)
+* [Springboot 2x Reactive](https://github.com/thomson470/ideahut-springboot-2x-template-flux)
 
 
 ### Customize the configuration
