@@ -196,7 +196,7 @@ export default {
             }
             self.loading["form_" + index] = true;
             api.call({
-                path: "/crud/action/single",
+                path: "/crud/single",
                 method: "post",
                 data: body,
                 onFinish() {
